@@ -4,4 +4,8 @@ updated by main am main vj
 new vj
 ok
 am starting 
+<<<<<<< HEAD
 neeed to merge
+=======
+starting new
+>>>>>>> 177ff46b146919d815946899c6e07aca1ad96c17
